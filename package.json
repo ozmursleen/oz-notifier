@@ -1,0 +1,23 @@
+{
+  "name": "oz-notifier",
+  "version": "1.0.0",
+  "description": "A notification plugin for angularjs apps",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ozmursleen/oz-notifier.git"
+  },
+  "author": "Oz Mursleen <osamammursleen@gmail.com>",
+  "license": "Open",
+  "bugs": {
+    "url": "https://github.com/ozmursleen/oz-notifier/issues"
+  },
+  "homepage": "https://github.com/ozmursleen/oz-notifier",
+  "dependencies": {
+    "less": "^2.5.0",
+    "less-loader": "^2.2.0",
+    "css-loader": "0.23.1",
+    "style-loader": "0.13.0",
+    "font-awesome": "^4.7.0",
+    "animate.css": "^3.5.2"
+  }
+}
