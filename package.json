@@ -1,7 +1,8 @@
 {
   "name": "oz-notifier",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A notification plugin for angularjs apps",
+  "readme": "README.md",
   "repository": {
     "type": "git",
     "url": "https://github.com/ozmursleen/oz-notifier.git"
