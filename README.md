@@ -3,7 +3,7 @@
 This plugin is gives you ability to show different notifications (info,warning,error etc) based on your needs.
 
 ## Getting Started
-To get you started you can simply clonse the _oz-notifier_ repository and install dependencies:
+To get you started you can simply clone the _oz-notifier_ repository and install dependencies:
 
 ### Prerequisites
 
@@ -46,5 +46,7 @@ module.exports = AppController;
 
 # For full code you can visit following link:
 https://github.com/ozmursleen/random-stuff/tree/master/oz-notifier
+
+# V2 is coming soon with lots of enhancements
 
 
