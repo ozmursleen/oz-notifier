@@ -3,6 +3,20 @@
   "version": "1.0.4",
   "description": "A notification plugin for angularjs apps",
   "readme": "README.md",
+  "keywords": [
+    "angular",
+    "component",
+    "notification",
+    "alert",
+    "animation",
+    "oz",
+    "notification-plugin",
+    "angular-notification",
+    "less",
+    "css",
+    "js",
+    "javascript"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/ozmursleen/oz-notifier.git"
